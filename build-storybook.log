@@ -1,0 +1,5 @@
+
+> ml_design@1.0.0 chromatic
+> build-storybook --output-dir /tmp/chromatic--49497-95KRBI3UiL5x
+
+sh: 1: build-storybook: not found
