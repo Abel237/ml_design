@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "chromatic": "^7.2.0"
+  },
+  "name": "ml_design",
+  "version": "1.0.0",
+  "description": "ML_design sys ITMO 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "chromatic": "build-storybook"
+  },
+  "author": "",
+  "license": "ISC"
+}
